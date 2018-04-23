@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+meta-data#HUXIN_CHANNEL
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:27:9-29:54
+	android:value
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:28:13-41
+manifest
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\83bbe056d7b839d37e426273da4deac1\AndroidManifest.xml:15:1-21:12
+MERGED from [:ui] E:\git project\YWProject\ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\1ecb3024821d261bad770bd364aecb71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\4638ee36e900e2423516794ed1230306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\304b8e699af9dcacfe58281083c36857\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\2ccf207480e594e343eab65df9508994\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\74b7a44ed66da39d2ad65f27a21160ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\5249cb721d8065106fbb9f12c17dd6a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c2656254a0c27f930c46d2fde46342c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ba02a8e26652eabd0ed080ccba6e7867\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0df1b364bde0df41d55a7dec3705f7fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c84bf02d9bfc0136f9af0bfc759f1684\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b80591ce7bda90c852d7ebdbfa9c98aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b51d14b581db173e17bdc106273fe217\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.CAMERA
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:10:22-62
+application
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:12:5-64:19
+MERGED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:19
+MERGED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\304b8e699af9dcacfe58281083c36857\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\304b8e699af9dcacfe58281083c36857\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\2ccf207480e594e343eab65df9508994\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\2ccf207480e594e343eab65df9508994\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c2656254a0c27f930c46d2fde46342c8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c2656254a0c27f930c46d2fde46342c8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:13:9-45
+meta-data#com.yw.mvp.glide.GlideCache
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:22:9-24:43
+	android:value
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:24:13-40
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:23:13-55
+activity#com.yw.mvp.MainActivity
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:31:9-38:20
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:32:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:36:27-74
+service#com.yw.mvp.service.MyIntentService
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:41:9-60
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:41:18-57
+service#com.yw.mvp.service.DaemonService
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:47:9-51:48
+	android:process
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:51:13-45
+	android:enabled
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:48:13-50
+service#com.yw.mvp.service.CancelNoticeService
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:54:9-64
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:54:18-61
+receiver#com.yw.mvp.receiver.MvpReceiver
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:57:9-63:20
+	android:exported
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:58:13-49
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:60:13-62:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:61:17-79
+	android:name
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml:61:25-76
+uses-sdk
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\83bbe056d7b839d37e426273da4deac1\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\83bbe056d7b839d37e426273da4deac1\AndroidManifest.xml:19:5-43
+MERGED from [:ui] E:\git project\YWProject\ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ui] E:\git project\YWProject\ui\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\1ecb3024821d261bad770bd364aecb71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\1ecb3024821d261bad770bd364aecb71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\4638ee36e900e2423516794ed1230306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\4638ee36e900e2423516794ed1230306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\304b8e699af9dcacfe58281083c36857\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\304b8e699af9dcacfe58281083c36857\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\2ccf207480e594e343eab65df9508994\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\2ccf207480e594e343eab65df9508994\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\74b7a44ed66da39d2ad65f27a21160ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\74b7a44ed66da39d2ad65f27a21160ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\5249cb721d8065106fbb9f12c17dd6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\5249cb721d8065106fbb9f12c17dd6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c2656254a0c27f930c46d2fde46342c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c2656254a0c27f930c46d2fde46342c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ba02a8e26652eabd0ed080ccba6e7867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ba02a8e26652eabd0ed080ccba6e7867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0df1b364bde0df41d55a7dec3705f7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0df1b364bde0df41d55a7dec3705f7fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c84bf02d9bfc0136f9af0bfc759f1684\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c84bf02d9bfc0136f9af0bfc759f1684\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b80591ce7bda90c852d7ebdbfa9c98aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b80591ce7bda90c852d7ebdbfa9c98aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b51d14b581db173e17bdc106273fe217\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b51d14b581db173e17bdc106273fe217\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\mvp\src\main\AndroidManifest.xml
+activity#com.yw.letterbar.letter.LetterDemoActivity
+ADDED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-79
+	android:name
+		ADDED from [:letterbar] E:\git project\YWProject\letterbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:19-76

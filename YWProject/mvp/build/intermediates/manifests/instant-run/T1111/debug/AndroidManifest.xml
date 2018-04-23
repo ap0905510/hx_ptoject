@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yw.mvp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name="com.yw.mvp.config.YWApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MvpTheme" >
+
+        <!-- Glide缓存路径配置 -->
+        <meta-data
+            android:name="com.yw.mvp.glide.GlideCache"
+            android:value="GlideModule" />
+
+        <!-- demo APP 渠道号 -->
+        <meta-data
+            android:name="HUXIN_CHANNEL"
+            android:value="T1111" />
+
+        <activity android:name="com.yw.mvp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- IntentService -->
+        <service android:name="com.yw.mvp.service.MyIntentService" />
+
+        <!-- 后台守护进程 -->
+        <!-- android:enabled属性的作用是Android系统是否实例化应用程序中的组件 -->
+        <!-- android:exported属性的作用是当前组件(Service)是否可以被包含本身以外的应用中的组件启动 -->
+        <!-- android:process=":service" 进程：com.yw.mvp:service -->
+        <service
+            android:name="com.yw.mvp.service.DaemonService"
+            android:enabled="true"
+            android:exported="true"
+            android:process="daemon.service" />
+
+        <!-- 取消守护进程的通知栏 -->
+        <service android:name="com.yw.mvp.service.CancelNoticeService" />
+
+        <!-- 静态广播 -->
+        <receiver
+            android:name="com.yw.mvp.receiver.MvpReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="com.yw.letterbar.letter.LetterDemoActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.yw.mvp.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

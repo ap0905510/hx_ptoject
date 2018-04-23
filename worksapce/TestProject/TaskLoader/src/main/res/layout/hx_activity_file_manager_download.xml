@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:itemView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hx_background_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/hx_activity_header_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/hx_background_color"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="选择文件 > "
+            android:textColor="@color/hx_text_color" />
+
+        <TextView
+            android:id="@+id/tv_file_type"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="下载"
+            android:textColor="@color/hx_text_color" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/hxs_color_white">
+
+        <com.youmai.asynctaskloaderdemo.view.FileDownloadItemView
+            android:id="@+id/ll_item_weixin"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@color/hxs_color_white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            itemView:count="16个文件"
+            itemView:logo="@drawable/hx_file_manager_weixin"
+            itemView:name="微信" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="16dp"
+            android:background="@color/hxs_color_gray16" />
+
+        <com.youmai.asynctaskloaderdemo.view.FileDownloadItemView
+            android:id="@+id/ll_item_qq"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@color/hxs_color_white"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            itemView:count="10个文件"
+            itemView:logo="@drawable/hx_file_manager_qq"
+            itemView:name="下载内容" />
+
+    </LinearLayout>
+
+</LinearLayout>

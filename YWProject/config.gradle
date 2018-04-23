@@ -1,0 +1,29 @@
+ext {
+    //true: 组件模式 false：集成模块
+    isModule = true
+
+    //编译、运行的版本号
+    android = [
+            COMPOLIE_SDK_VERSION: 27,
+            MIN_SDK_VERSION     : 14,
+            TARGET_SDK_VERSION  : 27,
+            SUPPORT_VERSION_CFG : "27.0.0",
+            VERSUIN_CODE        : 1,
+            VERSION_NAME        : "1.0"
+    ]
+
+    //模块的包名
+    appId = [
+            "mvp"             : "com.yw.mvp",
+            "letterbar"       : "com.yw.letterbar",
+            "ui"              : "com.yw.ui",
+            "ptl_recyclerview": "com.yw.ptl_recyclerview"
+    ]
+
+    //支持的库
+    supportLibrary = "27.0.0"
+    dependencies = [
+            "appcompat-v7"   : "com.android.support:appcompat-v7:${supportLibrary}",
+            "recyclerview-v7": "com.android.support:recyclerview-v7:${SUPPORT_VERSION}"
+    ]
+}

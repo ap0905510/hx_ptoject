@@ -1,0 +1,1 @@
+include ':translate_fragment', ':dn_waveview', ':mvp', ':DynamicButton', ':patterns', ':protobuf', ':aop_aspect', ':ui', ':letterbar', ':ptl_recyclerview', ':Pinyin4Search', ':pinyin4'

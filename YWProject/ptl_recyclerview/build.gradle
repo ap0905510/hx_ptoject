@@ -1,0 +1,94 @@
+
+//false是集成的应用
+if (!isModule.toBoolean()) {
+    apply plugin: 'com.android.library'
+} else {
+    apply plugin: 'com.android.application'
+}
+
+//全局 gradle 配置的变量
+def cfg = rootProject.ext.android
+def appId = rootProject.ext.appId
+def supportLib = rootProject.ext.dependencies
+
+android {
+    compileSdkVersion cfg.COMPOLIE_SDK_VERSION
+
+    defaultConfig {
+        minSdkVersion cfg.MIN_SDK_VERSION
+        targetSdkVersion cfg.COMPOLIE_SDK_VERSION
+        versionCode cfg.VERSUIN_CODE
+        versionName cfg.VERSION_NAME
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = [ moduleName : project.getName()]
+            }
+        }
+
+        //组件模式下开发
+        if (isModule) {
+            applicationId appId["ptl_recyclerview"]
+        }
+
+        //资源配置
+        sourceSets {
+            main {
+                //在组件模式下 使用不同的manifest文件
+                if (isModule) {
+                    manifest.srcFile 'src/main/module/AndroidManifest.xml'
+                    java.srcDirs 'src/main/module/java', 'src/main/java'
+                } else {
+                    manifest.srcFile 'src/main/AndroidManifest.xml'
+                }
+
+                res.srcDirs = [
+                        'src/main/res/layout',
+                        'src/main/res/layout-lib',
+                        'src/main/res'
+                ]
+            }
+        }
+
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules/pro'
+        }
+        release {
+            minifyEnabled false
+            debuggable false
+            jniDebuggable false
+            zipAlignEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+}
+
+android {
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    println("YW")
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    implementation "com.android.support:appcompat-v7:${SUPPORT_VERSION}"
+    implementation supportLib["recyclerview-v7"]
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+}

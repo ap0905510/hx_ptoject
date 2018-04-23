@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicButton/DynamicButton.iml" filepath="$PROJECT_DIR$/DynamicButton/DynamicButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pinyin4Search/Pinyin4Search.iml" filepath="$PROJECT_DIR$/Pinyin4Search/Pinyin4Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/YWProject.iml" filepath="$PROJECT_DIR$/.idea/YWProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop_aspect/aop_aspect.iml" filepath="$PROJECT_DIR$/aop_aspect/aop_aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dn_waveview/dn_waveview.iml" filepath="$PROJECT_DIR$/dn_waveview/dn_waveview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letterbar/letterbar.iml" filepath="$PROJECT_DIR$/letterbar/letterbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyin4/pinyin4.iml" filepath="$PROJECT_DIR$/pinyin4/pinyin4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf/protobuf.iml" filepath="$PROJECT_DIR$/protobuf/protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptl_recyclerview/ptl_recyclerview.iml" filepath="$PROJECT_DIR$/ptl_recyclerview/ptl_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/translate_fragment/translate_fragment.iml" filepath="$PROJECT_DIR$/translate_fragment/translate_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
+    </modules>
+  </component>
+</project>

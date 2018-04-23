@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyFrameLayout">
+        <attr name="declare_trans_y" format="integer"/>
+        <attr name="declare_alpha_y" format="integer"/>
+    </declare-styleable>
+
+</resources>

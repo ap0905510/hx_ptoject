@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yw.transview.view.MyScrollerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:MyFrameLayout="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.yw.transview.view.MyLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#FFFF00"
+            android:gravity="center"
+            android:text="测试代码"
+            MyFrameLayout:declare_trans_y="0x01" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher_round"
+            MyFrameLayout:declare_alpha_y="0x02"
+            android:layout_gravity="right"/>
+
+    </com.yw.transview.view.MyLinearLayout>
+
+</com.yw.transview.view.MyScrollerView>

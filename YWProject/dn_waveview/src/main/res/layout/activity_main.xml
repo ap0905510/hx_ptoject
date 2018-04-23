@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wave="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<com.yw.waveview.view.MyPointView-->
+        <!--android:id="@+id/mpv"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:onClick="changeCircle"/>-->
+
+    <ImageView
+        android:id="@+id/iv_01"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <com.yw.waveview.view.CanvasDraw
+        android:id="@+id/iv_02"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.yw.waveview.view.ViewgroupOne
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@mipmap/ic_launcher"/>
+
+        <!--<ImageView-->
+            <!--android:layout_width="80dp"-->
+            <!--android:layout_height="80dp"-->
+            <!--android:src="@color/colorAccent"/>-->
+
+    </com.yw.waveview.view.ViewgroupOne>
+
+    <com.yw.waveview.view.CustomView
+        android:layout_centerInParent="true"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@color/colorAccent"/>
+
+    <com.yw.waveview.WaveView
+        android:id="@+id/waveView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentBottom="true"
+        wave:duration="260dp"
+        wave:height="50px"
+        wave:originY="90dp"
+        wave:rise="true"
+        wave:waterColor="#D7EDFB"
+        wave:waveHeight="40dp"
+        wave:waveLength="600px" />
+
+    <com.yw.waveview.WaveView
+        android:id="@+id/waveView2"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentBottom="true"
+        wave:duration="350dp"
+        wave:height="56px"
+        wave:originY="100dp"
+        wave:rise="true"
+        wave:waterColor="#afcdf9"
+        wave:waveHeight="35dp"
+        wave:waveLength="600px" />
+
+    <com.yw.waveview.WaveView
+        android:id="@+id/waveView3"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentBottom="true"
+        wave:duration="210dp"
+        wave:height="56px"
+        wave:rise="true"
+        wave:waterColor="#3BA3FB"
+        wave:waveHeight="25dp"
+        wave:waveLength="600px"
+        wave:originY="110dp"/>
+
+</RelativeLayout>

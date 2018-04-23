@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DynamicButton" />
+            <option value="$PROJECT_DIR$/Pinyin4Search" />
+            <option value="$PROJECT_DIR$/aop_aspect" />
+            <option value="$PROJECT_DIR$/dn_waveview" />
+            <option value="$PROJECT_DIR$/letterbar" />
+            <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/patterns" />
+            <option value="$PROJECT_DIR$/pinyin4" />
+            <option value="$PROJECT_DIR$/protobuf" />
+            <option value="$PROJECT_DIR$/ptl_recyclerview" />
+            <option value="$PROJECT_DIR$/translate_fragment" />
+            <option value="$PROJECT_DIR$/ui" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

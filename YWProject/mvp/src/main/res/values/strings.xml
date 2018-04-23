@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVP</string>
+
+    <string-array name="tab_main_title">
+        <item>通讯录</item>
+        <item>会话</item>
+        <item>直播间</item>
+        <item>我的</item>
+    </string-array>
+
+    <string name="empty"></string>
+</resources>

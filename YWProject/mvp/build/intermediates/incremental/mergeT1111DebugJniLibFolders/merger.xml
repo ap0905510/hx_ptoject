@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\git project\YWProject\mvp\src\main\jniLibs"/></dataSet><dataSet config="T1111"><source path="E:\git project\YWProject\mvp\src\T1111\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\git project\YWProject\mvp\src\debug\jniLibs"/></dataSet><dataSet config="T1111Debug"><source path="E:\git project\YWProject\mvp\src\T1111Debug\jniLibs"/></dataSet></merger>

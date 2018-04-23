@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_7b9200cac8b7a96d57e1ac4fae0bc351dbd9a501\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\fe8efe1e9ec4811bb9ad2a3352fa73afc59ffcd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ea73f53acfea640736a6a7419ddf4290f3fcdd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_11e5c01617ee667d4a45ba948a656c898b69cbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\865550b5fc47a07d04546df925252fae0a775f0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ef8cf83150e32164e3819d620bee1eef73a4a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8cccb0b1b1baf314dbc62b54766d525d554e92a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="113bc9ba82c6c3b679b612ede97e8d844b58e692">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26090404281bf6307a7a416208715bbaf6cb6a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\cf557b2e615cfad4da5278b8a11f9fcde8d85b59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="567eb88aebc66bd2d9928ba72adb5bb0285c7cf0">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_190a0d27cd676b9db917407abb2e2067aef53808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\TencentMapSDK_Raster_v_1.2.7_51ae0e7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd015da6004ed72abf1936d7a33b6bccc00ef866">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\TencentMapSDK_Raster_v_1.2.7_51ae0e7_b9d2173ed272fc3b1d8c1ae40792ead2542f270f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_286854043b29f4e56b5f4e5908b4a6a53c1b5889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.qiniu\qiniu-android-sdk\7.3.3\ce507a5826e9d737bad0842fd4a78053c2371343\qiniu-android-sdk-7.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce507a5826e9d737bad0842fd4a78053c2371343">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\qiniu-android-sdk-7.3.3_37b8c1d974024b11aa9cb1a2d3f2b427fb494c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_4e2f8036401a7733bb0f537b0bbe79835c40cb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_b08f41d5c651425814124acdb4968a1e1d0b1c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.2\5e227e2d794cf680dd34fb04dd564ce58d6c764d\baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.2_b053c4729f0886f8abb3afb38abf6daadde54cfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\fb0bdc0cce2268015f296c254b78410e13e04d77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc8e3e3b486160c2382f499319b1c70adbf32575">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2e2f011acf09c9a26252bc703d6ccad4a7b335b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\155a4a06d85454401cd7b3a424e37402a78265be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3480be3f6975f3a27ae860aa0f7a61a2a97c0a78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-ShortMessage-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19bf208ba05ecd52d4301461b6570b26ab3dcb1">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.2_77077979069d672007efd994262aef5c2583a411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8e4bc67f8dad8855d6ebd4e5b62f7b5eed33e646\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be851bf4a9b59bd045902200830d23da447ab804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Alipay-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06bd4cf516c4809b57eb40ae74a8a29e1d6ffcaf">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Core-2.8.2_53058784b0a1abf783642973516875ddf44fa9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\MobTools-2017.0322.0931.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="242b3a8f9b6b47d2ea8cf932cd978a5b6651d22a">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0322.0931_a7437d84331b32b0e5803fa795327c42f1c58dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Email-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6af2c732a480ae98d94b3413e8a49daca39c11f4">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-2.8.2_425b3f4434dfad5ea44c4710b3a6fd9895f4be4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\joda-time-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\joda-time-2.5_dc386e3bee902cb74220bf7c701e1c5042af2786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\Rong_IMLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="020fb7ece0df1f4df0f359114bea119dd0aa71d5">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\Rong_IMLib_2e2d0fe939ee9f6a37cc6a2fbe1edaf5071ee125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6492617e5653b57ba3953da113842b49db4f2636\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d628136f329c477b2bcfba4720edc1b9cdc97b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\31932a4ec4bc4fc786ef421b02936dd524085f87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3210d27e22712d25363719194822e349ba8d6c79">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d3e646df301633495df0d13b3722f9daf151d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\96d5b79896ccf53913d6d76b3ae5958a0abe61e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd36be87274f74905f465f9f5e6e4fa3d79edc4">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d601d701191908a82b959c17272f47c66dcdb9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Twitter-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6b3827ab45de1b3b7df380c2ba95e53e3d5228">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Twitter-2.8.2_3e933285d7a94e04b5828baf7ed7097c0463b3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\282c356a876cf71d51178d5912133df2ae6046cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f577701fa1e05f14bde07bfbd522ced08fe1f7a0">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b062e9ad07e0e79ebc1a0003be905ec7f6368b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9c61bb082ad7cdec5850d53e2a79fada553789bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f724e7bb7619be8d2cf47855c17097a8c8596b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\aafb4e59c8247b571acbe9e95610c01d88cb698a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4b43f2969456b753b4e9c304726004e1c5470ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\58391dc937fc3e840b5bf6f56eb04ff6079f00a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc6142a2648c968c1ca514b5bd8f601f40bd8990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4d8dcfa8caf11105e4d88e777fb56459036627e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac38cec2b75fc0f3b46f37c477dbeceb4afc7af">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a93bd500162efeecfd63af8db849e2cfbc824e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\784c8218edf5d8808df679de48cc8b7d4c657fad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b070d665334a7192f3e86a0973571f3709697223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Wechat-Favorite-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.2_5ac1a7e6411e4acad9083c7380e5182ea4693923\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\alipaySdk-20161129.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9356473ed942faa70a18f34883af52681e1c7223">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20161129_d4a8a84d426e77077eaa54d6c45eb6e850421a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\volley-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley-1.0.19_b0784ee8ee06dfe4c94237fc4359e12254758bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-QQ-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb64a7456b98849ee2868a55aa0b3bb3f6e6a29">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.8.2_0c78e79ed552e4b8d81b73e3f95226bcaa9f70fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b0c060b60ea36fce93a77ef03af3b1e116f57d05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d0e2d23005078009da24f664ca5a8f8f1a69cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\46c4e783321712cbcc8038ab29cfb6316f7a0aed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41408d4e49819499cbea72b1b5460f2e8420c222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Alipay-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="436a2c5270cc10b2c47eaa36f0eb18e79550532e">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-2.8.2_dbea2f3e3eba5e6e465cf714b6a48659114f6806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f218df5802903ef02ec2ae16f29cebbe5e896b2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71c1d43ea321492e59b9aca97bdda2d08ca11d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_04baf9506aff2da76f835c7bcd98adc79126927e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\TencentLocationSDK_v4.9.7.12_r247861_161205_1104.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94f448b2cf8726ea2a1f2226c899855c070a8ba5">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\TencentLocationSDK_v4.9.7.12_r247861_161205_1104_90be3fe4f04c9fb8174a582d69d165b7582e47bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b10189f13c11b9e9cf005764b827a38276832924">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9de3e69a71343a3e6c776d66597288706cc6880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6e24292a7ec8f2d297e45342a1fb58ec45c61102\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a176aa934fe9d288a126c403a8291cf3ad4f5e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8c1e72d86a06b426c5022810773f63e319c5b026\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e37d06372336425e9191b9e020fae1bf00f44b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Wechat-Moments-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b40dd5cc7381571d1cc57e03fcf328598d559c4">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.8.2_501918674e5192607ad9f21a1ca44074a7571273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b1546f41caad40b667f7cf4d698eb1417d9b2c79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8718be9491bf14e701e7c88bf6f4e30e5eb594e5">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_294984cc9d8a78c09bdb507dc0c5715dba15892c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_5127af66b76a6a65810e00277050022b19264d6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\2119482c997b34f5deabf601d1a2a903b611ead6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6b5e0db6ff0c40fd283e445d8edb6d8dc272573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-QZone-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc2c7e7eaa2bad4c5333b6471d388a64df781d1b">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.2_2b9599640ad0537db941a19b1522982709579294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_f02b140780cf5ae86e1e4ef6f88c29f2669b9bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\83aa0afd17feacaff085ad30b1b9bd05e6c172d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1924815cf7e10e1e51cfb73c71dcf2b145ca1a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.29\2878958d7631337dcfe3bb4e541aa34478367e66\fastjson-1.2.29.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2878958d7631337dcfe3bb4e541aa34478367e66">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.2.29_d30b0abad4d3589f09502dc45d760da031cc9992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\726cec16fc111396e3727deaf1273dbce408215b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34859058d4a3d6825bd3f3352fbae9391bc5d16e">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f978c28ab7ba9daca2b63ffc29c60d8ecc1c6eba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\MobCommons-2017.0322.0931.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d49d36ec407502d69c217d81a87283eba9c746b2">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0322.0931_d680b3a8c675a029acb435b9abe8a36026acd79b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="521f72e4ce63c721c5d3006bfa4fa712dd51bea9">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.8.2_4f789349679b067995a1c8f4f3d30d49442040a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f256e1b55c909bf83a995d247982b3634a9d489f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\29074997d481aae444b292dc2dc4953fc29c9f35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f8b272b57d04a75fd5e1e0b7e8e657a50b7137b">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0cdfe19968f936d4ee981f70f1111e9b7c34b266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1c91d7795e285f65ecfea11fb493544d02213b39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70f5d2c5a9cbc5590d7d747d50a2373c8f4ce931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bb2bac28aab1dfe48d610a04b51efa5b7269c9c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81968715d73cbd11a39c9ee1e215c9e9092854c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-TencentWeibo-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b58e68a37b15c6159ebe6983e58e84743e1e3f">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.8.2_aec49ee4a0433b42a77a9648251d6e7968fcde0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\fbe370386851fd0d5e828272f88c381314af5759\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_983fbc382a4e8bb5306ebf36239a5372ea7a3eee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\18a9219dc9d1a55739977a7c68138e5abb23d053\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82559c12779f016df18306366d6f66a8af9d5d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b832e1e3e588156eb11905fcb62b53c2b75b1aa0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b20b4db3efb97b16c813140839594e575d80166">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12dc88339bf5b9e3edb8a3d55e265b2079db3218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\27eb64e892f4ffed65d165813332526c04eb7cfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89a8d2886c3ba24692a6f36e436f340e5841946b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Facebook-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb4a741c1bce3db23e592b939933cf9872bc20b">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.8.2_c3c6c0e72646eb931880aef1d77b98b385daf7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f29d1f3a46ad3e4c89aa599a59edad5457769d4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85dc74234e21cd36640e8c1a1643636c4d797dd7">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5a19a1fbbca48d30bc989b0fa0b2a171536bb15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\TencentSearch1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="195c1468964b5b9491a2d279469e8e52438e85c0">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\TencentSearch1.1.3_a5eaaa5c7bb5be8967ec19e5b29eb7c764edb44f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\20b948811cec2e12190d8b92930435e12775f200\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6e253efe436e42d001b5b7dd0e12fda5aaba95">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0a2e7332ab5476109d872df94c7507ce40b6658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-SinaWeibo-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8408628154b6e153c46dc0217cfa4b6ed0694b9">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.2_47881b6e726f39d34d0174286aded81c7d50243c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\653294668884b50bcc8dfa27dae11b3be66345e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42cdf3a397667132bf8532c8e7447165eb5c29f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\72b2ec5801d526f740f5f91f3d989438fcf59530\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e53517cd5071ca1e42548f05322ad87461098b58">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b0a9cdb0b722a60775205c03f426e96a3a04c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Wechat-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3f9d8cdaf36e449309698b6d3ec46fd47e4e14c">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.2_ae24ef4a4685c45526906e806be56b8671b73b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\31932a4ec4bc4fc786ef421b02936dd524085f87\output\jars\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_a0af31caf77345de83e180fd3908b9b867fa01c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e2e35491b150e4931f852f8a4bcdb80b00c3fb20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_885b1a33d90f0fa4c656150a94fe88d14b11408e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\93f55ea57e969c44a6a355ef05f1b81ce9da2236\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6c684b683cabce303b69a9575bb797f1451faca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Alipay-Moments-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87066c53ca2eb2dacb3089c0cd7e69e868d62245">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Moments-2.8.2_2b088340958ed877681a7c22687c47b71e831eb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git project\lqrwechatrongcloud\app\libs\ShareSDK-Wechat-Core-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="002b4be4096d7ce75e969449fc81b62e312748a6">
+        <dex dex="E:\git project\lqrwechatrongcloud\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.2_11d96ae22fe5b0b2d7044dd22f9fd1c8df62c97a\classes.dex" />
+    </item>
+
+</items>

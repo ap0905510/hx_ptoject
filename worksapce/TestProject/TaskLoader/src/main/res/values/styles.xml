@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="HxSdkTheme" parent="HxBaseSdkTheme" />
+
+    <!-- Base application theme. -->
+    <style name="HxBaseSdkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/hx_main_color</item>
+        <item name="colorPrimaryDark">@color/hx_status_color</item>
+        <item name="colorAccent">@color/hx_main_color</item>
+        <item name="android:windowBackground">@color/hx_window_background</item>
+    </style>
+
+    <declare-styleable name="SmoothCheckBox">
+        <attr name="duration" format="integer" />
+        <attr name="stroke_width" format="dimension" />
+        <attr name="color_tick" format="color" />
+        <attr name="color_checked" format="color" />
+        <attr name="color_unchecked" format="color" />
+        <attr name="color_unchecked_stroke" format="color" />
+    </declare-styleable>
+
+
+</resources>

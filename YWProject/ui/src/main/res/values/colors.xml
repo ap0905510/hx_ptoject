@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--字母指示器-->
+    <color name="contact_letter_idx_bg">#33000000</color>
+</resources>

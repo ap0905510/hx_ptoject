@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\a37f0ee8bff8e3713c0f27a80c23ed7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\aac147545d2fd01715206bedd82fd4a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ffcd5af17273bc6dc2cdc0028e873409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\9306071e74a6cd801e26ae972fc66cea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:2:5-38
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:1-39:12
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:5:22-78
+application
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:7:5-37:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:9:9-39
+activity#com.yw.ptl_recyclerview.MainActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:19:27-74
+activity#com.yw.ptl_recyclerview.LinearManagerActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:23:9-24:51
+	android:screenOrientation
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:23:19-56
+activity#com.yw.ptl_recyclerview.GridManagerActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:26:9-27:51
+	android:screenOrientation
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:26:19-54
+activity#com.yw.ptl_recyclerview.StaggredGridManagerActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:29:9-30:51
+	android:screenOrientation
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:29:19-62
+activity#com.yw.ptl_recyclerview.AutoLoadActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:32:9-33:51
+	android:screenOrientation
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:32:19-51
+activity#com.yw.ptl_recyclerview.custom.CustomManagerActivity
+ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:35:9-36:51
+	android:screenOrientation
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml:35:19-63
+uses-sdk
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cae1340a8a72cfa4b4872ca3970af169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\8e9cec8434707302027b16545329d6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\a37f0ee8bff8e3713c0f27a80c23ed7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\a37f0ee8bff8e3713c0f27a80c23ed7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\aac147545d2fd01715206bedd82fd4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\aac147545d2fd01715206bedd82fd4a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\cca25b41ac3e50261fc65d4ec8845947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\6558d87c054d1d3b0887d72a9773c1de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ffcd5af17273bc6dc2cdc0028e873409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ffcd5af17273bc6dc2cdc0028e873409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\9306071e74a6cd801e26ae972fc66cea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\9306071e74a6cd801e26ae972fc66cea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		ADDED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+		INJECTED from E:\git project\YWProject\ptl_recyclerview\src\main\module\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e045ac4656e6681a9f5c7525de746851\AndroidManifest.xml:26:13-58
